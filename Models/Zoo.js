@@ -58,7 +58,6 @@ let zoo = {
 
   }
 }
-let cheese = 0
 
 export default class Zoo {
   // called by the button click
